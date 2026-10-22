@@ -134,3 +134,8 @@ Use tags from [`TAGS.md`](./TAGS.md) where possible (recommended: up to 5 tags):
 By contributing to this repository, you agree that your submission must not contain malicious content.
 
 If we detect malicious behavior (including but not limited to malware, credential theft, obfuscation intended to hide harmful behavior, or supply-chain attacks), the submission will be removed and **we will report it** to the relevant platforms and/or authorities. **Legal action may be taken if needed.**
+
+
+## Legal notice
+
+This repository is a fork of the upstream Agent Zero plugin index. Preserve the upstream [MIT License](LICENSE), contributor terms, and each listed plugin's own license. Review the supplemental [disclaimer](DISCLAIMER.md) before installing or redistributing any plugin. The index does not audit or endorse listed plugins.
